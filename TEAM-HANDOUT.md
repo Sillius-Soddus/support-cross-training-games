@@ -1,6 +1,6 @@
 # Cross-Training Arena — Team Handout
 
-**Play here (on Jeremy’s machine / shared host):** ask your lead for the live link, or run it locally (below).
+**Play here:** https://sillius-soddus.github.io/support-cross-training-games/
 
 ---
 

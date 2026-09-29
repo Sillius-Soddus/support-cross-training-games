@@ -28,6 +28,10 @@ Matched to [corebridge.net](https://www.corebridge.net/):
 - Labels/CTAs: **IBM Plex Mono**
 - Dark UI, lime brand accent (`#99ca3d` / `#a8d65c`)
 
+## Play (shared URL)
+
+https://sillius-soddus.github.io/support-cross-training-games/
+
 ## Run locally
 
 ```bash
