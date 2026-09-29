@@ -1,0 +1,5 @@
+node_modules
+dist
+team-share
+.DS_Store
+*.local
